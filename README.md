@@ -9,9 +9,7 @@ I am Software Engineer, Codding is my passion and want to explore every new and 
 </p>
 
 
-<p align='center'>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=varun-naharia.visitor-badge">
-<p/>
+
 
 
 
@@ -21,3 +19,6 @@ I am Software Engineer, Codding is my passion and want to explore every new and 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varun.naharia@gmail.com)](mailto:varun.naharia@gmail.com)
 [![StackOverflow Badge](https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196&link=https://stackoverflow.com/users/3851580/varun-naharia)](https://stackoverflow.com/users/3851580/varun-naharia)
 
+<p align='center'>
+  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=varun-naharia.visitor-badge">
+<p/>

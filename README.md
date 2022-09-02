@@ -1,4 +1,4 @@
-I am Software Engineer, Codding is my passion and want to explore every new and old language and technology. Professionally I have more then 8 years of experince in iOS and Web application development and I worked on almost every domain of iOS app including iOT, BLE, E-Commerce, Sports Fantasy, Real Estate, Taxi Service, Food delivivery, Automobiles and many more.
+I am Software Engineer, Codding is my passion and want to explore every new and old language and technology. Professionally I have more then 8 years of experince in iOS and Web application development and I worked on almost every domain of iOS app including iOT, BLE, E-Commerce, Sports Fantasy, Real Estate, Taxi Service, Food delivery, Automobiles and many more.
 
 
 ## GitHub Statistics

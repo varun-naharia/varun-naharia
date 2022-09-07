@@ -1,12 +1,8 @@
-<a target="_blank" align="center">
-  <img align="center" top="500" height="300" width="400" style="margin:0 auto" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 I am Software Engineer, Codding is my passion and want to explore every new and old language and technology. Professionally I have more then 8 years of experince in iOS and Web application development and I worked on almost every domain of iOS app including iOT, BLE, E-Commerce, Sports Fantasy, Real Estate, Taxi Service, Food delivery, Automobiles and many more.
 
 ### Languages & Tools
-<div style="display:inline-flex;
-    justify-content: space-between;
-    width: 100%;">
+<div align="center">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -24,8 +20,12 @@ I am Software Engineer, Codding is my passion and want to explore every new and 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=varun-naharia&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=varun-naharia&hide=css,java,html&title_color=fff&bg_color=151515&theme=tokyonight">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-naharia&title_color=fff&bg_color=151515&theme=tokyonight" />
 </p>
 
+## :trophy: Git Profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-naharia&layout=compact&theme=algolia" alt="varun-naharia" /></a> </p>
 
 
 
@@ -40,3 +40,4 @@ I am Software Engineer, Codding is my passion and want to explore every new and 
 <p align='center'>
   <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=varun-naharia.visitor-badge">
 <p/>
+

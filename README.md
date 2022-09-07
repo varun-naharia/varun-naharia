@@ -1,6 +1,7 @@
 I am Software Engineer, Codding is my passion and want to explore every new and old language and technology. Professionally I have more then 8 years of experince in iOS and Web application development and I worked on almost every domain of iOS app including iOT, BLE, E-Commerce, Sports Fantasy, Real Estate, Taxi Service, Food delivery, Automobiles and many more.
 
 ### Languages & Tools
+<div style="display:inline-flex">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -11,6 +12,7 @@ I am Software Engineer, Codding is my passion and want to explore every new and 
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+ </div>
 
 ## GitHub Statistics
 

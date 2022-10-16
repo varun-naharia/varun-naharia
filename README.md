@@ -60,5 +60,5 @@ I am from India , Codding is my passion and want to explore every new and old te
 
 
 <p align='right'>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=varun-naharia.visitor-badge">
+  <img align='center' src="https://api.visitorbadge.io/api/VisitorHit?user=varun-naharia&repo=github-visitors-badge&countColor=%237B1E7A">
 <p/>
